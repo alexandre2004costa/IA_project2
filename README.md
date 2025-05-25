@@ -7,6 +7,15 @@ An initial Exploratory Data Analysis is done to understand the dataset and ident
 
 By preprocessing loan datasets and training of multiple machine learning models, the project aims to accurately classify loan applications while evaluating model performance through different metrics.
 
+## Algorithms
+- Decision Tree
+- Random Forest
+- AdaBoost
+- K-Nearest Neighbors (k-NN)
+- Neural Networks (NN)
+- Support Vector Machine (SVM)
+
+
 
 ## Installation
 
