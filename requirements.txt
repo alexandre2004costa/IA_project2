@@ -6,3 +6,4 @@ scikit-learn
 tensorflow
 keras-tuner
 xgboost
+Jinja2>=3.0.0  
