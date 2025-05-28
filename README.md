@@ -13,6 +13,7 @@ By preprocessing loan datasets and training of multiple machine learning models,
 - AdaBoost
 - K-Nearest Neighbors (k-NN)
 - Neural Networks (NN)
+- XGBoost
 - Support Vector Machine (SVM)
 
 
